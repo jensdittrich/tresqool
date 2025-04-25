@@ -17,5 +17,5 @@ To reproduce the results shown in the paper, do the following:
 
 (4.) Open the jupyter notebook "Visualization.ipynb" and run all cells:
 
-    -> This will create four different result_*.pdf files in directory "../../"
+    -> This will create four different result_*.pdf files in directory "."
     -> These pdfs are the ones included in the paper.
